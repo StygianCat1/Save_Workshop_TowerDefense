@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/GameScene/MainMenu_Scene.unity
+    guid: 17378fd805b7b804995beb9762548ebf
+  - enabled: 1
+    path: Assets/Scenes/Blocking Spawner.unity
+    guid: 10e779bc5998e2042b69dfa858144544
+  - enabled: 1
+    path: Assets/Scenes/Thibault/Scene_Test(Don't_use).unity
+    guid: a9731bf800b84fd42890cd0e679dce5b
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 8a487fea0cfb79a4aabf1466af9132da, type: 3}
+  m_UseUCBPForAssetBundles: 0

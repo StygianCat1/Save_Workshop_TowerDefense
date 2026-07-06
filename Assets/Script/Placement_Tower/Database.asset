@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: afb055753236b4e48bd2581016f7acf3, type: 3}
+  m_Name: Database
+  m_EditorClassIdentifier: 
+  objectsData:
+  - <Name>k__BackingField: Tower1
+    <ID>k__BackingField: 0
+    <Size>k__BackingField: 3
+    <Price>k__BackingField: 150
+    <Prefab>k__BackingField: {fileID: 2263988414626275109, guid: 106c2bf03cda5504b80546b72f280db0, type: 3}
+    <Turret>k__BackingField: {fileID: 7553948662318797023, guid: 106edaa56bfa3e642998928ef2a48f29, type: 3}
+  - <Name>k__BackingField: Tower2
+    <ID>k__BackingField: 1
+    <Size>k__BackingField: 3
+    <Price>k__BackingField: 150
+    <Prefab>k__BackingField: {fileID: 4334320121620626082, guid: d92515c82aae5fe4b822c1663c142cd6, type: 3}
+    <Turret>k__BackingField: {fileID: 5327356305631865669, guid: a2d8281262ff7774b9ea819ed0512df4, type: 3}
+  - <Name>k__BackingField: Tower3
+    <ID>k__BackingField: 2
+    <Size>k__BackingField: 3
+    <Price>k__BackingField: 300
+    <Prefab>k__BackingField: {fileID: 8436792672994652037, guid: 0c22c478cb5aff14b885637fd7658c27, type: 3}
+    <Turret>k__BackingField: {fileID: 2026577541409781793, guid: c92e663659ad02146bdc0a4132e505e0, type: 3}
+  - <Name>k__BackingField: Tower4
+    <ID>k__BackingField: 3
+    <Size>k__BackingField: 3
+    <Price>k__BackingField: 300
+    <Prefab>k__BackingField: {fileID: 8253349583840713708, guid: 14c7e55d1f29cd54f8ee08ae537c18a5, type: 3}
+    <Turret>k__BackingField: {fileID: 2777012606118014402, guid: 7778bf251edad0e43a72849aa278e213, type: 3}
+  - <Name>k__BackingField: Tower5
+    <ID>k__BackingField: 4
+    <Size>k__BackingField: 5
+    <Price>k__BackingField: 600
+    <Prefab>k__BackingField: {fileID: 1423237881672420175, guid: 93b81da86bedb6841afa7cfeb98442c0, type: 3}
+    <Turret>k__BackingField: {fileID: 5410382635592711500, guid: 278363affb1e9574c8cedbced89cc664, type: 3}
+  - <Name>k__BackingField: Tower6
+    <ID>k__BackingField: 5
+    <Size>k__BackingField: 5
+    <Price>k__BackingField: 600
+    <Prefab>k__BackingField: {fileID: 7716364455518820475, guid: bf58f5b64bc942d4da383cfa488518e3, type: 3}
+    <Turret>k__BackingField: {fileID: 5495367805522018205, guid: e4d692754a711bf4abb2d57dae19624e, type: 3}
